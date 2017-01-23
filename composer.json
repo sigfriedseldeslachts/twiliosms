@@ -11,5 +11,10 @@
             "name": "Sigfried Seldeslachts",
             "email": "sigfriedseldeslachts@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Sigfriedseldeslachts\\twiliosms\\": "src"
+        }
+    }
 }
