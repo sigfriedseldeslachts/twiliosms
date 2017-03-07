@@ -1,5 +1,8 @@
 # Laravel Twilio API Wrapper
-A Laravel 5.3 wrapper for sending messages or calls with the Twilio API.
+
+## New update is comming! (Using PHP chaining)
+
+A Laravel 5.3+ wrapper for sending messages or calls with the Twilio API.
 
 ## Setting up
 
