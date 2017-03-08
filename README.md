@@ -4,6 +4,7 @@ A Laravel 5 wrapper for sending messages or calls with the Twilio API.
 Supports:
 - Laravel 5.3
 - Laravel 5.4
+
 ## Setting up
 
 You can install the package via composer:
