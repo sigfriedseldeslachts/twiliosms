@@ -1,12 +1,14 @@
 {
     "name": "sigfriedseldeslachts/twiliosms",
-    "description": "A Laravel Wrapper for sending SMS messages with Twilio",
+    "description": "A Laravel 5.3+ Wrapper for sending messages with Twilio",
+    "keywords": ["laravel", "twilio", "call", "sms", "mms"],
+    "license": "MIT",
+    "homepage": "https://github.com/sigfriedseldeslachts/twiliosms",
     "require": {
         "php" : "^7.0",
-        "illuminate/support": "5.2.x|5.3.x",
+        "illuminate/support": "5.3.x|5.4.x",
         "twilio/sdk": "^5.4"
     },
-    "license": "MIT",
     "authors": [
         {
             "name": "Sigfried Seldeslachts",

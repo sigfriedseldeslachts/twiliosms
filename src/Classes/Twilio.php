@@ -162,6 +162,10 @@ class Twilio
         {
             $response = $this->client->calls->create($this->recipient, $this->sender, array('url' => $this->url));
         }
+        else
+        {
+            throw new Exception('Message method is not correct.');
+        }
 
         return $response;
     }
